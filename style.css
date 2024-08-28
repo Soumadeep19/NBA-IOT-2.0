@@ -23,6 +23,7 @@ h1 {
 
 /* Navbar Styles */
 #navbar {
+    width: 100vw;
     background-color: black;
     height: 60px;
     display: flex;
